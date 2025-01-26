@@ -1,4 +1,8 @@
-My_Test
+Test_Repo
 =======
 
-First Repository created for learning purpose
+ - Does it support markdown syntax?
+ - *Lets See* ~Italics strickthrough~ _Bold_
+ - bullet points are supported
+
+
