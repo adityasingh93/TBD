@@ -1,3 +1,13 @@
+## Read Me 
+
+- Make Repository accessible but clean and consice
+- Index for navigation
+- Description about 'Repo' Goals and Objectives
+-  Should the Goals and Objectives, be placed in it's own file with reference included in Index! --> TBD
+
+
+
+
 Features verifications : ReadMe Files
 =======
 
