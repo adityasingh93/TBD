@@ -28,4 +28,5 @@ this should be a code block
 >  to update this Repository, as this was initially created as Test Repo back in 2012 :)
 > 
 
+<!--Comments are not rendered, but can be seen in code edit view mode -->
 
